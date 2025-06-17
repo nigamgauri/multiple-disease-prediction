@@ -1,8 +1,11 @@
-#Prepared by Gauri Nigam
-# multiple-disease-prediction-streamlit-app
-This repository contains the codebase for "Multiple Disease Prediction Streamlit App". The training notebooks &amp; I've also provided the datasets in the respective folders. 
+# Multiple Disease Prediction – Streamlit App
 
-app.py is the streamlit app code.
-run the command "**pip install -r requirements.txt**" to install the required dependencies for the streamlit app.
+This repository contains the codebase for the **Multiple Disease Prediction Streamlit App**, a machine learning project developed to predict the likelihood of multiple health conditions based on user input.
 
-You may need to install additional libraries for running the jupyter notebooks.
+## 👤 Developed by
+**Gauri Nigam**  
+🎓 B.Tech, IET Lucknow
+
+## 📦 Project Structure
+- `app.py` – The main Streamlit app for disease prediction  
+- `/datasets` – Contains the datasets used for training the mod
